@@ -1,3 +1,3 @@
-## Semi-supervised Learning
+Semi-supervised Learning
 
 Using semisupervised method, we can label a large amount of data using a few labeled data. We first train the model on the labeled data and the trained model is used to predict the unlabeled data, add the closely predicted data to the labeled set to make more labeled data. To illustrate semisupervised learning, we use the MNIST handwritten digits data.
