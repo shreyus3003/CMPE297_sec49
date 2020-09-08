@@ -1,4 +1,4 @@
-# Multi-Instance Learning
+Multi-Instance Learning
 
 MIL is a supervised learning where bags or groups of samples are labeled. This means that the individual examples are unlabeled. This could be very useful in Medical field for example, in identifing cancer cells. A bag is considered positive if atleast one instance in the bag is positive and negative if all the instances are negative.
 
