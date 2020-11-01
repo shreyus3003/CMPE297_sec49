@@ -7,3 +7,6 @@ Slide-share link<br>
 https://www.slideshare.net/ShreyusPuthiyapurail/multi-tasking-learning-239038132
 
 
+The video of slide-share presenetation is uploaded in the same folder. <br>
+
+Multi-task_Learning.mp4
